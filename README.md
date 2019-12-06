@@ -1,5 +1,5 @@
 # watchman
-AI watchman that watches for events and notifies you
+AI watchman that watches for events and notifies you (has been only tested on mac)
 
 ## Run 
 
