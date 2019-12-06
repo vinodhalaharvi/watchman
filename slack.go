@@ -7,8 +7,8 @@ import (
 )
 
 const (
-	token       = "xoxp-37472707681-37472707713-646594743329-7f6588688bbc053301ce1c7b27597b59"
-	channelName = "admin"
+	token       = "YOUR_SLACK_TOKEN"
+	channelName = "YOUR_SLACK_CHANNEL"
 )
 
 func postToSlack(message string) {
